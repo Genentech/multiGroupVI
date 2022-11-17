@@ -41,6 +41,4 @@ our results on the scRNA-seq dataset considered in our paper can be found in
   year={2022},
   organization={PMLR}
 }
-
-}
 ```
