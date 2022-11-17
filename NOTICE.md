@@ -1,4 +1,4 @@
-SVAE
+multiGroupVI
 Copyright (c) 2022, Genentech, Inc.
 
 ## Acknowledgements of code reuse
