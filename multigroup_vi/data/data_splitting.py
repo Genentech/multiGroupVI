@@ -13,7 +13,7 @@ from scvi.model._utils import parse_use_gpu_arg
 
 class MultiGroupDataSplitter(pl.LightningDataModule):
     """
-    Create ContrastiveDataLoader for training, validation, and test set.
+    Create MultiGroupDataLoader for training, validation, and test set.
 
     Args:
     ----
@@ -26,7 +26,7 @@ class MultiGroupDataSplitter(pl.LightningDataModule):
         use_gpu: Use default GPU if available (if None or True); or index of GPU to
             use (if int); or name of GPU (if str, e.g., `'cuda:0'`); or use CPU
             (if False).
-        **kwargs: Keyword args for data loader (`ContrastiveDataLoader`).
+        **kwargs: Keyword args for data loader (`MultiGroupDataLoader`).
     """
 
     def __init__(

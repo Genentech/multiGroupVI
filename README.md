@@ -22,7 +22,7 @@ handle more groups by adding additional group-specific encoders.
 Git clone or download this repository. Then navigate to the folder and run
 
 ```
-pip install -e . 
+pip install . 
 ```
 
 ### Example usage
