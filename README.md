@@ -1,5 +1,5 @@
 This repository contains an implementation of the multiGroupVI model described
-in ["Disentangling shared and group-specific variations in single-cell transcriptomics data with multiGroupVI"](www.placeholder.com).
+in ["Disentangling shared and group-specific variations in single-cell transcriptomics data with multiGroupVI"](https://www.placeholder.com).
 
 ![multigroupVI concept figure](concept_figure.png)
 
@@ -37,7 +37,6 @@ our results on the scRNA-seq dataset considered in our paper can be found in
   title={Disentangling shared and group-specific variations in single-cell transcriptomics data with multiGroupVI},
   author={Weinberger, Ethan and Lopez, Romain and Hütter, Jan-Christian and Regev, Aviv },
   booktitle={Proceedings of the 17th Machine Learning in Computational Biology meeting},
-  pages={placeholder},
   year={2022},
   organization={PMLR}
 }
