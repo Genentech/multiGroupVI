@@ -35,7 +35,7 @@ our results on the scRNA-seq dataset considered in our paper can be found in
 ```
 @article{multiGroupVI,
   title={Disentangling shared and group-specific variations in single-cell transcriptomics data with multiGroupVI},
-  author={Weinberger, Ethan and Lopez, Romain and Hütter, Jan-Christian and Regev, Aviv },
+  author={Weinberger, Ethan and Lopez, Romain and H\"utter, Jan-Christian and Regev, Aviv },
   booktitle={Proceedings of the 17th Machine Learning in Computational Biology meeting},
   year={2022},
   organization={PMLR}
