@@ -4,7 +4,7 @@ Copyright (c) 2022, Genentech, Inc.
 ## Acknowledgements of code reuse
 
 The following files and folders contain code reused under copyright with the following license:
-`multigroup_vi/data/data_splitting.py`, `multigroup_vi/data/training_mixin.py`, 
+`multigroup_vi/data/data_splitting.py`, `multigroup_vi/model/base/training_mixin.py`, 
 
 BSD 3-Clause License
 
